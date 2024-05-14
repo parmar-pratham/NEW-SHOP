@@ -50,7 +50,7 @@
       "price": {
         "current": {
           "value": 115,
-          "text": "$115.00"
+          "text": "$1150.00"
         }
       },
       "brandName": "WALK LONDON",
@@ -8433,6 +8433,16 @@
           "isInWishList": false
         }
       ]
+    },
+    {
+      "id": "lClLUrMyHdXjuzLj0LnnT",
+      "name": "Vrund",
+      "lastname": "Patel",
+      "email": "vrund@gmail.com",
+      "phone": "12341368723",
+      "adress": "hoifnsdty ier`",
+      "password": "123456",
+      "userWishlist": []
     }
   ],
   "orders": [
